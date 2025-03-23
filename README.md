@@ -19,7 +19,16 @@
 Plently is a **fintech platform** designed to simplify **peer-to-peer transactions, group savings, and financial management**. The app provides a **secure and user-friendly** interface for managing digital wallets, automated savings, and seamless payment integrations.  
 
 ### **📸 Screenshots**  
-![Plently App Screenshot](assets/images/plently.png)  
+### Screenshots
+
+![Plently App Screenshot 1](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.43.26.png)
+![Plently App Screenshot 2](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.43.55.png)
+![Plently App Screenshot 3](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.04.png)
+![Plently App Screenshot 4](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.04.png)
+![Plently App Screenshot 5](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.21.png)
+![Plently App Screenshot 6](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.21.png)
+![Plently App Screenshot 7](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.43.png)
+![Plently App Screenshot 8](images/Simulator Screenshot - iPhone 15 Pro - 2025-03-23 at 14.44.43.png)
 
 ### **🔹 My Contributions**  
 ✅ **Architected the application** using **Flutter & Clean Architecture**, improving maintainability and scalability.  
