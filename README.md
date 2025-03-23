@@ -12,7 +12,7 @@
 ## **📌 Featured Projects**
 
 ### 🚀 **1️⃣ Plently - Fintech Mobile App**
-🔗 **[Project Repo (Private – Available Upon Request)](https://github.com/Plently/plently-mobile-fe)** | 🔗 **[Google Play](https://plently.com/)**
+🔗 **[Project Repo (Private)](https://github.com/Plently/plently-mobile-fe)** | 🔗 **[Google Play](https://plently.com/)**
 
 ### **🔹 Overview**
 Plently is a **fintech platform** designed to simplify **peer-to-peer transactions, group savings, and financial management**. The app provides a **secure and user-friendly** interface for managing digital wallets, automated savings, and seamless payment integrations.
@@ -25,9 +25,9 @@ Plently is a **fintech platform** designed to simplify **peer-to-peer transactio
     <td><img src="images/plently3.png" alt="Plently App Screenshot 3" width="200"></td>
   </tr>
   <tr>
-    <td><img src="images/plently5.png" alt="Plently App Screenshot 4" width="200"></td>
-    <td><img src="images/plently7.png" alt="Plently App Screenshot 5" width="200"></td>
-    <td><img src="images/plently7.png" alt="Plently App Screenshot 6" width="200"></td>
+    <td><img src="images/plently4.png" alt="Plently App Screenshot 4" width="200"></td>
+    <td><img src="images/plently5.png" alt="Plently App Screenshot 5" width="200"></td>
+    <td><img src="images/plently6.png" alt="Plently App Screenshot 6" width="200"></td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@ Plently is a **fintech platform** designed to simplify **peer-to-peer transactio
 ---
 
 ### 🚀 **2️⃣ Forkeeps - Secure Digital Asset Storage**
-🔗 **[Project Repo (Private – Available Upon Request)](https://github.com/Thrift-Store/flutter_app)** | 🔗 **[Google Play](https://play.google.com/store/search?q=forkeeps&c=apps)**
+🔗 **[Project Repo (Private)](https://github.com/Thrift-Store/flutter_app)** | 🔗 **[Google Play](https://play.google.com/store/search?q=forkeeps&c=apps)**
 
 ### **🔹 Overview**
 Forkeeps is a **digital asset storage app** that allows users to **securely store, encrypt, and manage important documents**. The application provides **cloud backups, biometric authentication, and real-time document access** while ensuring **maximum security**.
@@ -82,7 +82,7 @@ Forkeeps is a **digital asset storage app** that allows users to **securely stor
 ---
 
 ### 🚀 **3️⃣ Zheeta - Social Affiliate Networking Platform**
-🔗 **[Project Repo (Private – Available Upon Request)](https://github.com/DeCloud23Tech/Zheeta-API-V3.Mobile)** | 🔗 **[Google Play](https://www.zheeta.com/)**
+🔗 **[Project Repo (Private)](https://github.com/DeCloud23Tech/Zheeta-API-V3.Mobile)** | 🔗 **[Google Play](https://www.zheeta.com/)**
 
 ### **🔹 Overview**
 Zheeta is an **innovative social networking platform** that enables users to **monetize their social interactions** through an **affiliate-based referral system**. Users can **connect, share content, and earn rewards** for engagement.
