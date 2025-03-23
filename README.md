@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Robert Ishoka! 🚀  
 ## **Full-Stack Mobile Engineer | Flutter | Android | iOS**  
 
-🔹 Passionate **Flutter Developer** with **5+ years of experience** designing and optimizing **high-performance mobile applications** for **iOS & Android**.  
+🔹 Passionate **Flutter Developer** with **5 years of experience** designing and optimizing **high-performance mobile applications** for **iOS & Android**.  
 🔹 Skilled in **state management (Bloc, Riverpod, Provider), API integrations, authentication (OAuth2, JWT), and performance optimization**.  
 🔹 Experienced in **fintech, ride-sharing, and enterprise applications**, with deployment on **Google Play Store & Apple App Store**.  
 
@@ -11,84 +11,67 @@
 
 ## **📌 Featured Projects**  
 
----
-
-### 🚀 **2️⃣ Banking & Authentication System – De-Cloud23 Technologies**  
-📆 **03/2024 – Present**  
-🏗 **Tech Used:** Flutter, Firebase Firestore, OAuth2, CI/CD, Subscription-Based Payments  
-🔗 **[Project Repo (Private)]()**  
-
-### **🔹 Overview**  
-A **secure banking authentication system** with a subscription-based model, improving financial transactions and security.  
-
-### **🔹 My Contributions**  
-✅ Developed a **secure authentication system** with **Clean Architecture**, increasing user trust by **10%**.  
-✅ Implemented a **subscription-based payment system**, boosting premium user adoption by **20%**.  
-✅ Integrated **Flutter CI/CD pipelines**, reducing app release time by **30%**.  
-✅ Wrote **unit & integration tests** using **Flutter Test & Mockito**, improving app stability.  
-
-#### **📸 Screenshots**  
-![Banking App Screenshot](image-url)  
-
----
-
-### 🚀 **1️⃣ Fintech Mobile App – Plently (Remote, USA)**
-📆 **10/2023 – Present**  
-🏗 **Tech Used:** Flutter (Bloc, Riverpod), Firebase, REST APIs, OAuth2, JWT, CI/CD  
+### 🚀 **1️⃣ Plently - Fintech Mobile App**  
 🔗 **[Project Repo (Private)]()** | 🔗 **[Google Play / App Store (If Available)]()**  
 
 ### **🔹 Overview**  
-A **secure fintech mobile application** for iOS & Android with seamless transactions, authentication, and performance optimization.  
+Plently is a **fintech platform** designed for **peer-to-peer transactions, group savings, and financial management**.  
+
+### **📸 Screenshots**  
+![Plently App Screenshot](assets/images/plently.png)  
 
 ### **🔹 My Contributions**  
-✅ **Built a scalable fintech app** using **Flutter & Clean Architecture**.  
-✅ **Implemented secure authentication** (OAuth2, JWT), reducing unauthorized access by **30%**.  
-✅ **Optimized app performance**, cutting load times by **40%**, boosting user engagement.  
-✅ **Integrated Firebase & third-party financial APIs**, improving transaction success rates by **25%**.  
+✅ **Implemented secure authentication** (OAuth2, JWT) reducing unauthorized access by **30%**.  
+✅ **Optimized performance**, cutting load times by **40%** and boosting user engagement.  
+✅ **Integrated Firebase & third-party financial APIs**, increasing transaction success rates by **25%**.  
 ✅ **Led a cross-functional team** and managed **CI/CD pipelines** for seamless deployment.  
 
-#### **📸 Screenshots**  
-![Plently App Screenshot](image-url)  
-![Login Screen](image-url)  
+### **🔹 Tech Stack**  
+🛠 **Flutter (Bloc, Riverpod) | Firebase (Auth, Firestore, Cloud Functions) | OAuth2, JWT**  
+🛠 **Dio, Retrofit | Deep Linking, Push Notifications | GitHub Actions, Fastlane**  
 
 ---
 
-### 🚀 **2️⃣ Banking & Authentication System – De-Cloud23 Technologies**  
-📆 **03/2024 – Present**  
-🏗 **Tech Used:** Flutter, Firebase Firestore, OAuth2, CI/CD, Subscription-Based Payments  
+### 🚀 **2️⃣ Forkeeps - Secure Digital Asset Storage**  
 🔗 **[Project Repo (Private)]()**  
 
 ### **🔹 Overview**  
-A **secure banking authentication system** with a subscription-based model, improving financial transactions and security.  
+Forkeeps is a **secure digital asset storage app** for **storing important digital documents and backups**.  
+
+### **📸 Screenshots**  
+![Forkeeps App Screenshot](assets/images/forkeeps.png)  
 
 ### **🔹 My Contributions**  
-✅ Developed a **secure authentication system** with **Clean Architecture**, increasing user trust by **10%**.  
-✅ Implemented a **subscription-based payment system**, boosting premium user adoption by **20%**.  
-✅ Integrated **Flutter CI/CD pipelines**, reducing app release time by **30%**.  
-✅ Wrote **unit & integration tests** using **Flutter Test & Mockito**, improving app stability.  
+✅ Developed a **secure document storage system** using **AES encryption**.  
+✅ Integrated **cloud storage and backup features** with Firebase & AWS.  
+✅ Implemented **biometric authentication** for additional security.  
+✅ Built a **responsive UI** with animations for a better user experience.  
 
-#### **📸 Screenshots**  
-![Banking App Screenshot](image-url)  
+### **🔹 Tech Stack**  
+🛠 **Flutter (Riverpod, Stacked) | Firebase Auth, OAuth2, JWT | AES Encryption**  
+🛠 **Dio, Retrofit | CI/CD: Fastlane, GitHub Actions | UX Enhancements: Lottie, Shimmer**  
 
 ---
 
-### 🚀 **3️⃣ Ride-Sharing App – MyBetaRide Technologies**  
-📆 **02/2022 – 10/2022**  
-🏗 **Tech Used:** Flutter, Google Maps API, Firebase Firestore, REST APIs  
+### 🚀 **3️⃣ Zheeta - Social Affiliate Networking Platform**  
 🔗 **[Project Repo (Private)]()**  
 
 ### **🔹 Overview**  
-A **ride-sharing platform** designed for seamless user experience with location tracking, API efficiency, and modular UI components.  
+Zheeta is a **social networking platform** that allows users to **monetize their social activities** through an **affiliate-based model**.  
+
+### **📸 Screenshots**  
+![Zheeta App Screenshot](assets/images/zheeta.png)  
 
 ### **🔹 My Contributions**  
-✅ Developed a **real-time ride-sharing app** with **Flutter & Firebase**, reducing **load times by 40%**.  
-✅ Integrated **Google Maps API**, optimizing geolocation services & reducing latency.  
-✅ Optimized **REST API data handling**, cutting network payload by **15%**, boosting responsiveness by **20%**.  
-✅ Built a **modular widget library**, improving UI development speed by **40%**.  
+✅ Developed a **scalable authentication system**, increasing user trust by **10%**.  
+✅ Integrated **subscription-based payments**, boosting premium user adoption by **20%**.  
+✅ Built **location-based features** using **Google Maps & Geolocation APIs**.  
+✅ Reduced app release time by **30%** with **Flutter CI/CD pipelines**.  
 
-#### **📸 Screenshots**  
-![Ride-Sharing App Screenshot](image-url)  
-![Google Maps Integration](image-url)  
+### **🔹 Tech Stack**  
+🛠 **Flutter Bloc, GetIt, Injectable | Firebase Auth, OAuth2 | Dio, Pretty Dio Logger**  
+🛠 **Google Maps API, Geolocator | Shared Preferences, Cached Network Image**  
+🛠 **CI/CD: Fastlane, GitHub Actions | Secure Storage & JWT Authentication**  
 
 ---
 
