@@ -12,19 +12,22 @@
 ## **📌 Featured Projects**  
 
 ### 🚀 **1️⃣ Plently - Fintech Mobile App**  
+📆 **10/2023 – Present**  
 🔗 **[Project Repo (Private)]()** | 🔗 **[Google Play / App Store (If Available)]()**  
 
 ### **🔹 Overview**  
-Plently is a **fintech platform** designed for **peer-to-peer transactions, group savings, and financial management**.  
+Plently is a **fintech platform** designed to simplify **peer-to-peer transactions, group savings, and financial management**. The app provides a **secure and user-friendly** interface for managing digital wallets, automated savings, and seamless payment integrations.  
 
 ### **📸 Screenshots**  
 ![Plently App Screenshot](assets/images/plently.png)  
 
 ### **🔹 My Contributions**  
-✅ **Implemented secure authentication** (OAuth2, JWT) reducing unauthorized access by **30%**.  
-✅ **Optimized performance**, cutting load times by **40%** and boosting user engagement.  
+✅ **Architected the application** using **Flutter & Clean Architecture**, improving maintainability and scalability.  
+✅ **Implemented secure authentication** (OAuth2, JWT), reducing unauthorized access by **30%**.  
 ✅ **Integrated Firebase & third-party financial APIs**, increasing transaction success rates by **25%**.  
-✅ **Led a cross-functional team** and managed **CI/CD pipelines** for seamless deployment.  
+✅ **Optimized app performance**, cutting load times by **40%**, leading to improved user retention.  
+✅ **Led a cross-functional team**, collaborating with backend engineers and DevOps for seamless deployments.  
+✅ **Developed deep linking, push notifications, and background services**, improving user engagement.  
 
 ### **🔹 Tech Stack**  
 🛠 **Flutter (Bloc, Riverpod) | Firebase (Auth, Firestore, Cloud Functions) | OAuth2, JWT**  
@@ -33,19 +36,22 @@ Plently is a **fintech platform** designed for **peer-to-peer transactions, grou
 ---
 
 ### 🚀 **2️⃣ Forkeeps - Secure Digital Asset Storage**  
+📆 **02/2023 – 08/2023**  
 🔗 **[Project Repo (Private)]()**  
 
 ### **🔹 Overview**  
-Forkeeps is a **secure digital asset storage app** for **storing important digital documents and backups**.  
+Forkeeps is a **digital asset storage app** that allows users to **securely store, encrypt, and manage important documents**. The application provides **cloud backups, biometric authentication, and real-time document access** while ensuring **maximum security**.  
 
 ### **📸 Screenshots**  
 ![Forkeeps App Screenshot](assets/images/forkeeps.png)  
 
 ### **🔹 My Contributions**  
-✅ Developed a **secure document storage system** using **AES encryption**.  
-✅ Integrated **cloud storage and backup features** with Firebase & AWS.  
-✅ Implemented **biometric authentication** for additional security.  
-✅ Built a **responsive UI** with animations for a better user experience.  
+✅ **Built a secure document storage system** using **AES encryption** to protect user data.  
+✅ **Integrated cloud storage solutions** with Firebase & AWS for real-time backup and recovery.  
+✅ **Implemented biometric authentication** (Face ID, Fingerprint) for secure access.  
+✅ **Designed an intuitive, responsive UI** with animations (Lottie, Shimmer) to enhance user experience.  
+✅ **Optimized file uploads and retrieval**, reducing access time by **35%**.  
+✅ **Configured automated CI/CD pipelines**, ensuring seamless app updates and rollbacks.  
 
 ### **🔹 Tech Stack**  
 🛠 **Flutter (Riverpod, Stacked) | Firebase Auth, OAuth2, JWT | AES Encryption**  
@@ -54,19 +60,21 @@ Forkeeps is a **secure digital asset storage app** for **storing important digit
 ---
 
 ### 🚀 **3️⃣ Zheeta - Social Affiliate Networking Platform**  
+📆 **02/2022 – 10/2022**  
 🔗 **[Project Repo (Private)]()**  
 
 ### **🔹 Overview**  
-Zheeta is a **social networking platform** that allows users to **monetize their social activities** through an **affiliate-based model**.  
+Zheeta is an **innovative social networking platform** that enables users to **monetize their social interactions** through an **affiliate-based referral system**. Users can **connect, share content, and earn rewards** for engagement.  
 
 ### **📸 Screenshots**  
 ![Zheeta App Screenshot](assets/images/zheeta.png)  
 
 ### **🔹 My Contributions**  
-✅ Developed a **scalable authentication system**, increasing user trust by **10%**.  
-✅ Integrated **subscription-based payments**, boosting premium user adoption by **20%**.  
-✅ Built **location-based features** using **Google Maps & Geolocation APIs**.  
-✅ Reduced app release time by **30%** with **Flutter CI/CD pipelines**.  
+✅ **Developed and implemented an advanced authentication system**, increasing user security by **10%**.  
+✅ **Built a seamless referral and rewards system**, leading to a **15% increase in user retention**.  
+✅ **Integrated subscription-based payments**, boosting premium user adoption by **20%**.  
+✅ **Implemented geolocation features**, allowing users to discover nearby connections and events.  
+✅ **Reduced app release time by 30%** by automating the **CI/CD pipeline with GitHub Actions & Fastlane**.  
 
 ### **🔹 Tech Stack**  
 🛠 **Flutter Bloc, GetIt, Injectable | Firebase Auth, OAuth2 | Dio, Pretty Dio Logger**  
@@ -74,7 +82,6 @@ Zheeta is a **social networking platform** that allows users to **monetize their
 🛠 **CI/CD: Fastlane, GitHub Actions | Secure Storage & JWT Authentication**  
 
 ---
-
 ## **🛠️ Technical Skills**  
 ### **💻 Programming Languages & Frameworks:**  
 - **Flutter (Dart)** | Kotlin (Android) | Swift (iOS)  
